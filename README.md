@@ -186,13 +186,13 @@ urban-expansion-detection-spacenet7/
 ├── outputs/
 │    ├── figures_pdf/
 │    │   ├── training_curves_*.pdf
-│    │   │── confusion_matrix_*.pdf
+│    │   ├── confusion_matrix_*.pdf
 │    │   ├── figure_3_training_curves_all_models.pdf
 │    │   ├── figure_5_gradcam_correct_*.pdf
 │    │   ├── figure_6_gradcam_incorrect_*.pdf
 │    │   └── figure_7_shap_explanations_*.pdf
 │    └── tables_csv/
-│    │   │── dataset_description.csv
+│    │   ├── dataset_description.csv
 │    │   ├── model_architecture_table.csv
 │    │   ├── model_evaluation_results.csv
 │    │   ├── confusion_matrix_*.csv
