@@ -1,0 +1,4 @@
+Model,Input Size,Output,Trainable Parameters,Total Parameters,Notes
+Custom_CNN,224x224x3,Binary sigmoid,421889,422337,Custom CNN from scratch
+MobileNetV2,224x224x3,Binary sigmoid,164097,2422081,ImageNet transfer learning; frozen base
+ResNet50,224x224x3,Binary sigmoid,524801,24112513,ImageNet transfer learning; frozen base

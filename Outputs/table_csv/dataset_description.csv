@@ -1,0 +1,10 @@
+Field,Value
+Dataset name,SpaceNet 7 Multi-Temporal Urban Development
+Kaggle input path,/kaggle/input/datasets/amerii/spacenet-7-multitemporal-urban-development
+Task,Binary classification from early-late satellite difference patches
+Class 0,No Urban Expansion
+Class 1,Urban Expansion
+Image size used,224 x 224 x 3
+Number of processed images,778
+Number of classes,2
+Label source,Patch-level visual change score from earliest vs latest image
