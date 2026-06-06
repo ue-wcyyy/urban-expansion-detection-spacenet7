@@ -181,36 +181,11 @@ Outputs:
 urban-expansion-detection-spacenet7/
 │
 ├── README.md
-│
-├── proposal/
-│   └── Proposal.pdf
-│
 ├── notebooks/
 │   └── spacenet7_urban_expansion_xai.ipynb
-│
 ├── outputs/
 │   ├── figures_pdf/
-│   │   ├── training_curves_custom_cnn.pdf
-│   │   ├── training_curves_mobilenetv2.pdf
-│   │   ├── training_curves_resnet50.pdf
-│   │   ├── confusion_matrix_custom_cnn.pdf
-│   │   ├── confusion_matrix_mobilenetv2.pdf
-│   │   ├── confusion_matrix_resnet50.pdf
-│   │   ├── gradcam_examples.pdf
-│   │   └── shap_examples.pdf
-│   │
 │   └── tables_csv/
-│       ├── dataset_description.csv
-│       ├── class_distribution.csv
-│       ├── model_results.csv
-│       ├── classification_reports.csv
-│       ├── confusion_matrices.csv
-│       └── final_comparison_table.csv
-│
-├── src/
-│   └── helper_functions.py
-│
-└── requirements.txt
 ```
 
 ---
